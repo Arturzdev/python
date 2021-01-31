@@ -1,0 +1,13 @@
+a = int(input("First num "))
+b = int(input("Second num "))
+print(a)
+print(b)
+print(a + b)
+print(a * b)
+print(a ** b)
+print(a / b)
+print(a // b)
+
+name = input("What is your name? ")
+surname = input("What is your surname? ")
+print("Your name is", name, surname)
